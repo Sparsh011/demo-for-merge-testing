@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("This message will remain in master branch, NOW ADDED THIS TO firstbranch, now changing somethign in 1st branch")
+        print("again in 1st branch")
     }
 }
