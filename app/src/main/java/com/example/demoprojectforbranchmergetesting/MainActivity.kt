@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        print("This message will remain in master branch, NOW ADDED THIS TO firstbranch")
+        print("This message will remain in master branch, NOW ADDED THIS TO firstbranch, now changing somethign in 1st branch")
     }
 }
