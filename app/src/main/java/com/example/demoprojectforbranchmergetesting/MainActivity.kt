@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         print("Deleted prev msg and now in second branch")
+        print("Now let's do changes in this one")
     }
 }
