@@ -8,10 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         print("changing in 1st branch")
-        da;of;a
-        agfoha;ofg
-        aerghoeg;
-        aerg;
+
+        print("Deleted prev msg and now in second branch")
     }
 }
